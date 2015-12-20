@@ -1,0 +1,28 @@
+name: MR Calisthenics
+favicon: null
+layout_spectrum: 0.22196779679507017
+typography_spectrum: 0.9943194014485925
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.06057961378246546
+  lightness: 0.2079458434600383
+  saturation: 0.5495371748693287
+  rhythmicContrast: 0.6202060738578439
+purpose: []
