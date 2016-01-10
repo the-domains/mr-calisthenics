@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MR Calisthenics]]></title>
         <description><![CDATA[MR Calisthenics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mr-calisthenics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:47:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 03:33:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mr-calisthenics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7575c0b-8c8c-455c-b74f-45fcc070843b.jpg">]]></description>
-            <link>undefined533ce350-453b-47b2-b0e7-f0ba55f3de5c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a2c60b-c905-4b2a-b042-0827ed5acb46.jpg">]]></description>
+            <link>https://thegrid.ai/mr-calisthenics/533ce350-453b-47b2-b0e7-f0ba55f3de5c/index.html</link>
             <guid isPermaLink="false">533ce350-453b-47b2-b0e7-f0ba55f3de5c</guid>
-            <pubDate>Sun, 20 Dec 2015 20:47:39 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 03:33:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
